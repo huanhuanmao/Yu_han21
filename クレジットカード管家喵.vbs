@@ -7,6 +7,5 @@ voice.Volume = 100
 
 If a <> "" Then
 	voice.Speak "友達ハンスイちゃん，"
-	WScript.Sleep 500
 	voice.Speak a
 End If
